@@ -1,5 +1,3 @@
-Here’s a well-structured, clear, and visually appealing `README.md` for your Flask app with Prometheus and Grafana metrics on Minikube:
-
 ---
 
 ````markdown
@@ -222,7 +220,7 @@ kubectl delete namespace monitoring
 
 ---
 
-🧠 **Author**: *Your Name Here*
+🧠 **Author**: *Keshav Prasad*
 📅 **Date**: *June 2025*
 
 ```
